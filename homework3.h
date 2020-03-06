@@ -35,7 +35,7 @@ bool fsmBoosterpackButtonS1(unsigned int buttonhistory);
 #define SWITCH_1 BIT1
 #define SWITCH_2 BIT5
 
-#define LED2_COUNT 0x27AC40
+#define LED2_COUNT 0x2DC6C0
 #define LEDB_COUNT 0x55F0
 
 #endif /* HOMEWORK3_H_ */

@@ -86,6 +86,8 @@ void initGPIO()
     P5OUT |= SWITCH_1;
     P3OUT |= SWITCH_2;
 
+    P1OUT = 0x00;
+
 }
 
 // TODO: Create a function to return the status of Launchpad Pushbutton S1
